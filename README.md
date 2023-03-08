@@ -4,7 +4,6 @@
 ### Part 2: A Flask API "app.py" is created based on the queries that were developed. The API has the following route map displayed on the home screen:
 
 CLIMATE ANALYSIS API  
-
 Honalulu, Hawaii 01/01/2010 - 08/23/2017  
 
 Available Routes:  
